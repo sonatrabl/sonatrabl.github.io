@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://sonatrabl.github.io/sonatrabl.sonatrabl
+Sitemap: https://sonatrabl.github.io/app/sonatrabl.sonatrabl
+Sitemap: https://sonatrabl.github.io/assets/sonatrabl.sonatrabl
+Sitemap: https://sonatrabl.github.io/css/sonatrabl.sonatrabl
+Sitemap: https://sonatrabl.github.io/includes/sonatrabl.sonatrabl
+Sitemap: https://sonatrabl.github.io/item/sonatrabl.sonatrabl
+Sitemap: https://sonatrabl.github.io/src/sonatrabl.sonatrabl
